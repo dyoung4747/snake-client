@@ -3,8 +3,8 @@ const { IP, PORT } = require('./constants');
 
 const connect = function() {
   const conn = net.createConnection({
-    IP,
-    PORT
+    host: IP,
+    port: PORT
   });
   conn.on('connect', () => {
     conn.write('Name: DNY');
