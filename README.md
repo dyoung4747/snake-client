@@ -9,10 +9,17 @@ Functions have been created to establish connection to the server and then move 
 Key commands...
 
 w = Move Up
+
 a = Move Left
+
 s = Move Down
+
 d = Move Right
-` = Say: "You won't beqt me!"
+
+` = Say: "You won't beat me!"
+
 1 = Say: "You're going downnnnn..."
+
 2 = Say: "You got lucky..."
+
 3 = Say: "HAHA I win!"
